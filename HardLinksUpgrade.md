@@ -4,7 +4,7 @@ Submit completed tests and debug.log files to:  [Gavin Andresen](mailto:gavin@bi
 
 Test environment:
 
-(edit this to describe the machine you're testing on; e.g. Windows 7, running Bitcoin-Qt version 0.7.2)
+(TEST RUNNING PERSON: edit this to describe the machine you're testing on; e.g. Windows 7, running Bitcoin-Qt version 0.7.2)
 
 ## Bounties:
 
