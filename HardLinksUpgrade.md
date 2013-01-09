@@ -30,7 +30,7 @@ to the Bitcoin Testing Project.
 
 Download and install test binaries from the latest successful pull-tester build [(link here)](http://jenkins.bluematt.me/pull-tester/f4445f9982a760869c430f3d4b1302f7eb509bd8/bitcoin/)
 Use bitcoin-qt.exe if you are on Windows, bitcoin-qt if Linux (sorry, Mac builds not available).
-(or, if you are able, build binaries yourself)
+(or, if you are able, [build binaries yourself](https://github.com/bitcoin/bitcoin/pull/2099) )
 
 1. Note how much disk space is being used by the bitcoin data directory.
 2. Run the new bitcoind/Bitcoin-Qt binary.
