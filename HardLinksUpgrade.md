@@ -66,3 +66,9 @@ EXPECT:
 2. Old version is synchronized to blockchain from where it last exited
 
 PASS/FAIL
+
+### Final steps
+
+Email your debug.log file(s) and a link to your forked github repository with test results to [Gavin](mailto:gavin@bitcoinfoundation.org).
+(if the debug.log files are too large to attach to an email, upload them somewhere Gavin can see them--
+mediafire.com, dropbox, shared google doc, etc)
