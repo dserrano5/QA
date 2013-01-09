@@ -28,9 +28,8 @@ to the Bitcoin Testing Project.
 
 ### Upgrade
 
-Download and install test binaries from the latest successful pull-tester build; you will find a link to
-the last pull-tester build in [pull request 2099](https://github.com/bitcoin/bitcoin/pull/2099).
-
+Download and install test binaries from the latest successful pull-tester build [(link here)](http://jenkins.bluematt.me/pull-tester/f4445f9982a760869c430f3d4b1302f7eb509bd8/bitcoin/)
+Use bitcoin-qt.exe if you are on Windows, bitcoin-qt if Linux (sorry, Mac builds not available).
 (or, if you are able, build binaries yourself)
 
 1. Note how much disk space is being used by the bitcoin data directory.
