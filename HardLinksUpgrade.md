@@ -8,11 +8,10 @@ Test environment:
 
 ## Bounties:
 
-- 0.5 BTC : Test starting from version 0.7.2
+- CLAIMED 0.5 BTC : [Test starting from version 0.7.2](https://github.com/weapon-x/QA/blob/master/TestPlanExecution.md)
 - 0.5 BTC : Test starting from version 0.3.24
 - 0.5 BTC : Test on Windows (any version), FAT32 filesystem 
-
-- CLAIMED 0.5 BTC : [Test on Windows XP, NTFS filesystem](https://github.com/weapon-x/QA/blob/master/TestPlanExecution.md)
+- 0.5 BTC : Test on Windows XP, NTFS filesystem
 
 Bounties will go to the first people who follow the instructions in TestPlanExecution.md and this test plan and
 submit test results and timestamped debug.log files. These bounties are being paid from the 72 BTC donated
