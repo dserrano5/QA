@@ -13,7 +13,7 @@ Test environment:
 - 0.5 BTC : Test on Windows (any version), FAT32 filesystem 
 - 0.5 BTC : Test on Windows XP, NTFS filesystem
 
-Bounties will go to the first people who follow the instructions in TestPlanExecution.md and this test plan and
+Bounties will go to the first people who follow the instructions in [TestPlanExecution.md](TestPlanExecution.md) and this test plan and
 submit test results and timestamped debug.log files. These bounties are being paid from the 72 BTC donated
 to the Bitcoin Testing Project.
 
