@@ -4,16 +4,16 @@ Submit completed tests and debug.log files to:  [Gavin Andresen](mailto:gavin@bi
 
 Test environment:
 
-(edit this to describe the machine you're testing on; e.g. Windows 7, running Bitcoin-Qt version 0.7.2)
+(TEST RUNNING PERSON: edit this to describe the machine you're testing on; e.g. Windows 7, running Bitcoin-Qt version 0.7.2)
 
 ## Bounties:
 
-- 0.5 BTC : Test starting from version 0.7.2
+- CLAIMED 0.5 BTC : [Test starting from version 0.7.2](https://github.com/weapon-x/QA/blob/master/TestPlanExecution.md)
 - 0.5 BTC : Test starting from version 0.3.24
-- 0.5 BTC : Test on Windows XP, NTFS filesystem
 - 0.5 BTC : Test on Windows (any version), FAT32 filesystem 
+- CLAIMED 0.5 BTC : Test on Windows XP, NTFS filesystem (subStrata)
 
-Bounties will go to the first people who follow the instructions in TestPlanExecution.md and this test plan and
+Bounties will go to the first people who follow the instructions in [TestPlanExecution.md](TestPlanExecution.md) and this test plan and
 submit test results and timestamped debug.log files. These bounties are being paid from the 72 BTC donated
 to the Bitcoin Testing Project.
 
@@ -28,10 +28,9 @@ to the Bitcoin Testing Project.
 
 ### Upgrade
 
-Download and install test binaries from the latest successful pull-tester build; you will find a link to
-the last pull-tester build in [pull request 2099](https://github.com/bitcoin/bitcoin/pull/2099).
-
-(or, if you are able, build binaries yourself)
+Download and install test binaries from the latest successful pull-tester build [(link here)](http://jenkins.bluematt.me/pull-tester/f4445f9982a760869c430f3d4b1302f7eb509bd8/bitcoin/)
+Use bitcoin-qt.exe if you are on Windows, bitcoin-qt if Linux (sorry, Mac builds not available).
+(or, if you are able, [build binaries yourself](https://github.com/bitcoin/bitcoin/pull/2099) )
 
 1. Note how much disk space is being used by the bitcoin data directory.
 2. Run the new bitcoind/Bitcoin-Qt binary.
@@ -65,3 +64,9 @@ EXPECT:
 2. Old version is synchronized to blockchain from where it last exited
 
 PASS/FAIL
+
+### Final steps
+
+Email your debug.log file(s) and a link to your forked github repository with test results to [Gavin](mailto:gavin@bitcoinfoundation.org).
+(if the debug.log files are too large to attach to an email, upload them somewhere Gavin can see them--
+mediafire.com, dropbox, shared google doc, etc)
