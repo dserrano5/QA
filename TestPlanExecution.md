@@ -30,8 +30,9 @@ notes, etc.
 5. Save a copy of the debug.log file(s) created by bitcoind/Bitcoin-Qt in case the developers need them to
 find issues or to prove that you tested what you said you tested in order to claim a testing bounty.
 
-When you have finished running the test plan, either submit a pull request (easiest and probably best)or
-send a message to the person who created the test plan to let them know you've finished testing.
+When you have finished running the test plan, submit a pull request or
+send a message to the person who created the test plan to let them know you've finished testing.<br/>
+  ![github fork](http://dl.dropbox.com/u/38065353/Github_PullRequest.jpg)
 
 Bounties
 --
