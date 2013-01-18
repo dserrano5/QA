@@ -9,8 +9,8 @@ Test environment:
 ## Bounties:
 
 - CLAIMED 0.5 BTC : [Test starting from version 0.7.2](https://github.com/weapon-x/QA/blob/master/TestPlanExecution.md)
-- 0.5 BTC : Test starting from version 0.3.24
-- 0.5 BTC : Test on Windows (any version), FAT32 filesystem 
+- CLAIMED 0.5 BTC : Test starting from version 0.3.24
+- CLAIMED 0.5 BTC : Test on Windows (any version), FAT32 filesystem 
 - CLAIMED 0.5 BTC : Test on Windows XP, NTFS filesystem (subStrata)
 
 Bounties will go to the first people who follow the instructions in [TestPlanExecution.md](TestPlanExecution.md) and this test plan and
